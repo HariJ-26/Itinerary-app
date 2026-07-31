@@ -1,0 +1,6 @@
+{
+  "name": "Travel Planner",
+  "description": "Next-generation travel planning application powered by Google AI and Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
